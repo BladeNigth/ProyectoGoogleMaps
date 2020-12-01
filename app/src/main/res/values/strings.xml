@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProyectoGoogleMaps</string>
+    <string name="Nombre">Nombre</string>
+    <string name="empresa">Empresa</string>
+    <string name="departamento">Departamento</string>
+    <string name="municipio">Municipio</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
